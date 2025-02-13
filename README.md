@@ -1,6 +1,6 @@
 # This is a technical assessment for Fullstack Node position
 
-Developed a RESTful APIs using Node.js (Nest.js framework) for a Grocery Booking API.
+Developed RESTful APIs using Node.js (NestJS framework) for Grocery booking.
 
 ## Running the app with docker desktop
 
